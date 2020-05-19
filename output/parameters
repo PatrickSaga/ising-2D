@@ -1,0 +1,12 @@
+length - Length of the square lattice (even)
+64
+nstep - Number of iterations to average
+5000
+ntherm - Thermalization time-steps
+100000
+maxT - Maximum temperature (properly reescaled)
+2.47
+minT - Minimum temperature
+2.46
+dt - Temperature step
+0.01
