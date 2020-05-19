@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# to change language of repo to Python
+    *.ipynb linguist-language=Fortran
+    *.py linguist-language=Python
